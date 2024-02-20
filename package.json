@@ -1,13 +1,12 @@
 {
-  "name": "react-json-server",
+  "name": "json",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-	"devDependencies": {
+  "devDependencies": {
     "json-server": "^0.17.4"
   },
   "keywords": [],
